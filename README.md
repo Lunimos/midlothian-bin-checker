@@ -9,5 +9,7 @@ Automatically checks your bin collection dates from Midlothian Council and sends
 - Sends a Discord message via webhook that looks like this:
 - 
 📅 Upcoming bin collections:
+
 🗑️ Grey Bin on Wednesday 08/04/2026
+
 🗑️ Food Bin on Thursday 09/04/2026
